@@ -1,1 +1,2 @@
-this is mfile 1
+this is first line mfile1
+this is second line mfile2
